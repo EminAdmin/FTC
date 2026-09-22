@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EF22gLh0cE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aboba\\Desktop\\FTC\\FunTimeCobra\\FunTimeCobra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aboba\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
